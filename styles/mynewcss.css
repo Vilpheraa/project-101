@@ -1,0 +1,38 @@
+.img1 {
+    height: 50px; width: 50px;
+}
+
+.div1 {
+    /* border: 2px solid ; */
+    width: 250px;
+    display: flex;
+    align-items: center;
+}
+nav {
+    /* border: 2px solid; */
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    width: 500px;
+    
+    
+
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    background-color: cyan;
+}
+.ptag1 {
+    /* display: inline; */
+    font-size: larger;
+}
+.span1 {
+    color: rgb(240, 191, 30);
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    border-bottom: 2px solid rgb(158, 63, 18);
+}
